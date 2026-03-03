@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Salsa_structures/static/css/main.9ef32cc0.css",
-    "main.js": "/Salsa_structures/static/js/main.c0002004.js",
+    "main.js": "/Salsa_structures/static/js/main.b6edcba7.js",
     "static/js/453.20359781.chunk.js": "/Salsa_structures/static/js/453.20359781.chunk.js",
     "index.html": "/Salsa_structures/index.html",
     "main.9ef32cc0.css.map": "/Salsa_structures/static/css/main.9ef32cc0.css.map",
-    "main.c0002004.js.map": "/Salsa_structures/static/js/main.c0002004.js.map",
+    "main.b6edcba7.js.map": "/Salsa_structures/static/js/main.b6edcba7.js.map",
     "453.20359781.chunk.js.map": "/Salsa_structures/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ef32cc0.css",
-    "static/js/main.c0002004.js"
+    "static/js/main.b6edcba7.js"
   ]
 }
